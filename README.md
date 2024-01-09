@@ -21,7 +21,7 @@ If you prefer to run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ikramismailx/learnit.git
+    git clone https://github.com/ikramismailx/refactor.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
